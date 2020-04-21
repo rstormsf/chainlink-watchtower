@@ -3,7 +3,7 @@ const Web3 = require('web3')
 const { toHex, sha3, toChecksumAddress } = require('web3-utils')
 const JOBS = require('./jobs.json')
 const { ORACLE_ADDRESS, RESPONSE_INTERVAL, ALERT_SERVICE, RPC_WSS_URL } = process.env
-
+console.log('Current JOB IDS:', JOBS)
 let alertService
 switch(ALERT_SERVICE) {
   case 'opsgenie':

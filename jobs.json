@@ -1,3 +1,19 @@
 {
-  "ETH/USD": "bfc6238ac52b4d1dbc571a3212cfe474"
+  "knc_eth": "680972fb2786461b8079979fd46d309c",
+  "lend_eth": "e0861030c20140b4831c21a22f640b7c",
+  "susd_eth": "2e7a376bdaf647beb27963c85897aa6c",
+  "usdc_eth": "c93a419a29ad40feb18f64577888d0ce",
+  "zrx_eth": "bcad91c8928b4ba5a1329dad05a7a1ff",
+  "lrc_eth": "5b7b871e74f14b75a5705cb9c1db5127",
+  "s_btc-usd": "8fed4f5795f442f9a032b251e40c83f9",
+  "s_xau-usd": "418c4cb3fc3647f693f4f47d951c5b19",
+  "eth-usd": "a8ca6694123143d48d3fe207fdb208d9",
+  "s_aud-usd": "09f01c2e525d4288be43dec207d5be96",
+  "bnt-usd": "2b9703d3754f4edd9537391d6bf02ab7",
+  "s_bnb-usd": "06a7004dd55f4fc3b86de8303364d134",
+  "s_scex": "2883dad5381a434fb9565882cfc05100",
+  "defi_market": "59f625c3941b4a179478602b195254af",
+  "new_eth_usd": "b2df346d41af45559973e8160b090c50",
+  "old_eth_usd": "4152585341e14ddf9cdcf7698d65ec68",
+  "new_btc_usd": "7c5dbbc1bbbe471598e7c679604aa26e"
 }
