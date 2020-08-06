@@ -15,5 +15,15 @@
   "defi_market": "59f625c3941b4a179478602b195254af",
   "new_eth_usd": "b2df346d41af45559973e8160b090c50",
   "old_eth_usd": "4152585341e14ddf9cdcf7698d65ec68",
-  "new_btc_usd": "7c5dbbc1bbbe471598e7c679604aa26e"
+  "new_btc_usd": "7c5dbbc1bbbe471598e7c679604aa26e",
+  "eth-xdr": "29ca56bae9ef4601a4a3b00b2e166263",
+  "yfi-usd": "1ed7ddb0194b4dfcbaf41d2d476ca2ae",
+  "btcusd-nomics": "bc181e0b4a1e4cef96778447a4be5261",
+  "ethgas": "94e44feb7aa644bfb73da900aa496dd0",
+  "eth-enj": "016421300d98488cb1eeadc6001838ee",
+  "eth-yfi": "1e941494dbc042a1a2d3ea2f1dee1be3",
+  "usdt-eth-aave": "41d4381a52864cf1aa593104970c889b",
+  "link-eth-aave": "5cc7752eeab84a73922fee8e45d7b32f",
+  "btc-eth-aave": "4bb062fc5a6549038df0762b514bfd5f"
+
 }
